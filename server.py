@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # File sharing using RPyC
 # Server code
-# Paul Talaga - paul.talaga@uc.edu
 # Jan, 2015
 import rpyc
 
